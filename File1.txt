@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Edit using master
+=======
+edit in customermodule
+>>>>>>> CustomerModule
